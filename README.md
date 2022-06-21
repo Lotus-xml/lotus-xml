@@ -50,8 +50,8 @@
 
 ### **🪙 Crypto 🪙**
 
-**BTC:** `3QyFLimtqLFYFsRsjQheTKHnecZQKvbhLw`
+**BTC:** `3BcNab7o1qCV5emjNVSHpJvrCTDZqrUNL5`
 
-**ETH:** `0x41D94767300a9F03492a5241cDaE2B5AbA8E87ad`
+**ETH:** `0xF6E2546193C9a13f6AE01D630560e1626506a841`
 
-**LTC:** `ltc1qnqdx47pfgx7unzaccxe2lj9v9t9qezsauqyu9p`
+**LTC:** `MDfA2rNHXoRZtLHemvUZU3K2tT1N3HiuHx`
